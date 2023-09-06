@@ -8,6 +8,7 @@ outliers_stru*
 wandb/*
 lm-evaluation-harness/wandb/*
 trash/
+falcon-7b/
 lm-evaluation-harness/lm_eval/tasks/__pycache__/*
 lm-evaluation-harness/.coveragerc
 lm-evaluation-harness/.flake8
